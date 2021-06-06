@@ -1,4 +1,10 @@
 # Prerequisites
+
+.settings/**
+bin/**
+test-output/**
+.metadata/**
+
 *.d
 
 # Compiled Object files
