@@ -1,0 +1,16 @@
+﻿  findtext.cpp
+  findtext.vcxproj -> C:\Users\kiril\source\repos\lab1\findtext\Debug\findtext.exe
+  Сравнение файлов out.txt и C:\USERS\KIRIL\APPDATA\LOCAL\TEMP\OUTPUT.TXT
+  FC: различия не найдены
+  
+  Test 1/4 completed 
+  Test 2/4 completed 
+  Сравнение файлов out2.txt и C:\USERS\KIRIL\APPDATA\LOCAL\TEMP\OUTPUT.TXT
+  FC: различия не найдены
+  
+  Test 3/4 completed 
+  Сравнение файлов notfound.txt и C:\USERS\KIRIL\APPDATA\LOCAL\TEMP\OUTPUT.TXT
+  FC: различия не найдены
+  
+  Test 4/4 completed 
+  All Tests passed successfully

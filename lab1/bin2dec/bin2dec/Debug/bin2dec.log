@@ -1,0 +1,11 @@
+﻿  bin2dec.cpp
+C:\Users\kiril\source\repos\bin2dec\bin2dec\bin2dec.cpp(14,11): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\kiril\source\repos\bin2dec\bin2dec\bin2dec.cpp(37,20): warning C4018: <: несоответствие типов со знаком и без знака
+  bin2dec.vcxproj -> C:\Users\kiril\source\repos\bin2dec\Debug\bin2dec.exe
+  Test 1/3 completed 
+  Test 2/3 completed 
+  Сравнение файлов out3.txt и C:\USERS\KIRIL\APPDATA\LOCAL\TEMP\OUTPUT.TXT
+  FC: различия не найдены
+  
+  Test 3/3 completed 
+  Tests passed successfully
